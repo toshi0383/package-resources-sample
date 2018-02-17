@@ -1,0 +1,1 @@
+print(Bundle.main.executablePath!)
